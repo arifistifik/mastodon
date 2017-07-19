@@ -62,6 +62,9 @@ gem 'twitter-text', '~> 1.14'
 gem 'tzinfo-data', '~> 1.2017'
 gem 'webpacker', '~> 2.0'
 
+# for Genkai Online
+gem 'ruby-bbcode'
+
 group :development, :test do
   gem 'fabrication', '~> 2.16'
   gem 'fuubar', '~> 2.2'
